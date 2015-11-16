@@ -2,6 +2,16 @@
 Changelog for package dxl_armed_turtlebot
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.2 (2015-11-12)
+------------------
+* Use kinect as 3d_sensor
+* Contributors: Shunichi Nozawa
+
+2.1.1 (2015-11-11)
+------------------
+* add robot_state_publisher for both base and robot
+* Contributors: Kei Okada
+
 2.1.0 (2015-11-11)
 ------------------
 * add dxl_armed_turtlebot_gazebo.launch
